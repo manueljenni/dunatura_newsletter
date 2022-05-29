@@ -26,13 +26,13 @@
         <!-- Header Image -->
         <mj-section padding-top="0px" padding-right="12px" padding-left="12px" padding-bottom="32px">
             <mj-column>
-                <mj-image  src="header_image.png" alt="dunatura_logo" />
+                <mj-image  src="header_image.png" alt="header_image" />
             </mj-column>
         </mj-section>
         <!-- Newsletter Topic Button -->
         <mj-section padding-right="12px" padding-left="12px" padding-bottom="0px">
             <mj-column>
-                <mj-button letter-spacing="3px" inner-padding="15px" align="left" border-radius="47px" background-color="#F66B66" color="white" text-transform="uppercase" font-size="26px" font-weight="900">
+                <mj-button letter-spacing="3px" inner-padding="15px" align="left" border-radius="47px" background-color="#F66B66" color="white" text-transform="uppercase" font-size="30px" font-weight="900">
                     Newsletter Thema
                 </mj-button>
             </mj-column>
@@ -48,10 +48,10 @@
         <!-- Main Text -->
         <mj-section padding-right="12px" padding-left="12px" >
             <mj-column>
-                <mj-text font-size="48px" font-weight="regular" line-height="58px" padding-bottom="18px">
+                <mj-text font-size="46px" font-weight="regular" line-height="58px" padding-bottom="18px">
                     Lieber Alex,
                 </mj-text>
-                <mj-text font-size="48px" font-weight="regular" line-height="58px" padding-bottom="48px">
+                <mj-text font-size="46px" font-weight="regular" line-height="58px" padding-bottom="46px">
                     wer kennt es nicht? Wenn die Zeit knapp ist oder wir keine Lust haben frisch zu kochen, geht
                     der Griff zu einer Tieühlmahlzeit. Aber statt TK-Pizza, Fischstäbchen oder anderer
                     Fertigkost füllen wir jetzt unseren Gefrierschrank mit diesen gesunden Tieühlprodukten:
@@ -61,24 +61,121 @@
                     haben uns für Sie auf die Suche nach den besten pflanzlichen Alternativen für Eier, Sahne,
                     Milch & Co. gemacht.
                 </mj-text>
-                <mj-text font-size="48px" font-weight="regular" line-height="58px">
+                <mj-text font-size="46px" font-weight="regular" line-height="58px">
                     Viel Spaß beim Lesen und Ausprobieren,<br>
                     dein dunatura Team
                 </mj-text>  
             </mj-column>
         </mj-section>
         <!-- Two Images -->
-
+        <mj-section padding-right="12px" padding-left="12px" >
+            <mj-column>
+                <mj-image src="food_left.png" alt="food_left"/>
+            </mj-column>
+            <mj-column>
+                <mj-image src="food_right.png" alt="food_right"/>
+            </mj-column>
+        </mj-section>
         <!-- Highlighted Section -->
-
+        <mj-section background-color="#F66B66">
+            <mj-column  width="55%">
+                <mj-text font-size="64px" color="white" font-weight="bold" align="center"  padding-top="100px" padding-bottom="100px" letter-spacing="2px" line-height="74px">
+                    «Wichtige, hervorgehobene
+                    Informationen, Quotes, Tipps
+                    oder Ähnliches :-)»
+                </mj-text>
+            </mj-column>
+        </mj-section>
         <!-- Subheadline -->
-
+        <mj-section padding-right="12px" padding-left="12px" padding-top="56px" padding-bottom="0px">
+            <mj-column>
+                <mj-text font-size="32px" font-weight="700" text-transform="uppercase" letter-spacing="2px">
+                    Unterüberschrift
+                </mj-text>
+            </mj-column>
+        </mj-section>
         <!-- Subheadline Text -->
-
+        <mj-section padding-right="12px" padding-left="12px" padding-bottom="24px">
+            <mj-column>
+                <mj-text font-size="46px" font-weight="regular" line-height="58px">
+                    Wer kennt es nicht? Wenn die Zeit knapp ist oder wir keine Lust haben frisch zu kochen, geht
+                    der Griff zu einer Tieühlmahlzeit. Aber statt TK-Pizza, Fischstäbchen oder anderer
+                    Fertigkost füllen wir jetzt unseren Gefrierschrank mit diesen gesunden Tieühlprodukten:
+                    Wir stellen Ihnen die Lebensmittel vor, die Sie immer im Gefrierfach haben sollten und aus
+                    denen Sie im Handumdrehen eine nahrhafte Mahlzeit zubereiten können.
+                    Sie möchten mehr pflanzliche Lebensmittel essen, ohne geschmackliche Einbußen? Wir
+                    haben uns für Sie auf die Suche nach den besten pflanzlichen Alternativen für Eier, Sahne,
+                    Milch & Co. gemacht.
+                </mj-text>
+            </mj-column>
+        </mj-section>
         <!-- Mehr Erfahren Button -->
-
+        <mj-section padding-right="12px" padding-left="12px" padding-bottom="80px">
+            <mj-column>
+                <mj-button letter-spacing="3px" inner-padding="15px" align="left" border-radius="47px" background-color="#F66B66" color="white" text-transform="uppercase" font-size="30px" font-weight="900">
+                    Mehr erfahren
+                </mj-button>
+            </mj-column>
+        </mj-section>
         <!-- Product Section -->
-
+        <mj-section background-color="#F7F4F2">
+            <mj-column>
+                <mj-text font-size="64px" color="black" font-weight="bold" align="center" padding-top="50px" padding-bottom="15px" letter-spacing="2px" line-height="74px">
+                    Jeden Tag optimal versorgt.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#F7F4F2" padding-right="12px" padding-left="12px" padding-bottom="50px">
+            <mj-column>
+                <mj-image src="Sport-Basic-1.png" alt="Sport-Basic" />
+            </mj-column>
+            <mj-column>
+                <mj-image src="Immun-Complete-1.png" alt="Immun-Complete" />
+            </mj-column>
+            <mj-column>
+                <mj-image src="Vegan-Complete-1.png" alt="Vegan-Complete" />
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#F7F4F2">
+            <mj-column>
+                <mj-button align="center" letter-spacing="3px" inner-padding="15px" align="left" border-radius="47px" background-color="#296E30" color="white" text-transform="uppercase" font-size="30px" font-weight="900" padding-bottom="50px">
+                    Jetzt entdecken
+                </mj-button>
+            </mj-column>
+        </mj-section>
         <!-- Footer -->
+        <mj-section background-color="white" padding-bottom="0px">
+            <mj-column>
+                <mj-text padding-top="80px" align="center" font-size="30px" font-weight="900" text-transform="uppercase" letter-spacing="3px" >
+                    Fragen? Melde dich bei uns!
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-wrapper background-url="Berge.png">
+            <mj-section >
+            <mj-group  width="20%">
+                <mj-column>
+                    <mj-image padding-left="10px" padding-right="10px" src="Icon-Email.svg" alt="IconEmail" />
+                </mj-column>
+                <mj-column >
+                    <mj-image padding-left="10px" padding-right="10px"  src="Icon-Instagram.svg" alt="IconInstagram" />
+                </mj-column>
+                <mj-column>
+                    <mj-image padding-left="10px" padding-right="10px"  src="Icon-Facebook.svg" alt="IconFacebook" />
+                </mj-column>
+                <mj-column>
+                    <mj-image padding-left="10px" padding-right="10px"  src="Icon-WhatsApp.svg" alt="IconWhatsApp" />
+                </mj-column>
+            </mj-column>
+            </mj-group>
+        </mj-section>
+            <mj-section>
+                <mj-column>
+                <mj-text padding-top="80px" align="center" font-size="38px" letter-spacing="3px" color="white" font-weight="400" line-height="56px">
+                    © 2022 dunatura Tagespacks GmbH | Steinerne Furt 60 | 86167 Augsburg<br>Abbestellen | Impressum | Datenschutz | AGB
+                </mj-text>
+            </mj-column>
+            </mj-section>
+        </mj-wrapper>
     </mj-body>
 </mjml>
