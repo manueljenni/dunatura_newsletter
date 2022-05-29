@@ -1,0 +1,23 @@
+{
+  "name": "html_email_newsletter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manueljenni/html_email_newsletter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manueljenni/html_email_newsletter/issues"
+  },
+  "homepage": "https://github.com/manueljenni/html_email_newsletter#readme",
+  "dependencies": {
+    "mjml": "^4.12.0"
+  },
+  "description": ""
+}

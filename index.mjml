@@ -1,0 +1,84 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+        <mj-attributes>
+        <mj-all font-family="brandon-grotesque" />
+        </mj-attributes>
+        <mj-style>
+            @import url("https://use.typekit.net/ftf2oae.css");
+        </mj-style>
+    </mj-head>
+    <mj-body width="1920px">
+        <!-- Header -->
+        <mj-section full-width="full-width" padding-right="12px" padding-left="12px" padding-top="12px" padding-bottom="0px">
+            <mj-column padding-bottom="0px">
+                <mj-text align="right" font-size="28px">
+                    <p><span style="margin-right: 0.3em;">Online Ansehen</span>|<span style="margin-left: 0.3em;">Zum Shop</span></p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- Header Logo -->
+        <mj-section padding-top="0px" padding-bottom="32px">
+            <mj-column>
+                <mj-image width="340px"  src="Logo.svg" alt="dunatura_logo" />
+            </mj-column>
+        </mj-section>
+        <!-- Header Image -->
+        <mj-section padding-top="0px" padding-right="12px" padding-left="12px" padding-bottom="32px">
+            <mj-column>
+                <mj-image  src="header_image.png" alt="dunatura_logo" />
+            </mj-column>
+        </mj-section>
+        <!-- Newsletter Topic Button -->
+        <mj-section padding-right="12px" padding-left="12px" padding-bottom="0px">
+            <mj-column>
+                <mj-button letter-spacing="3px" inner-padding="15px" align="left" border-radius="47px" background-color="#F66B66" color="white" text-transform="uppercase" font-size="26px" font-weight="900">
+                    Newsletter Thema
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <!-- Headline -->
+        <mj-section padding-right="12px" padding-left="12px" >
+            <mj-column>
+                <mj-text font-size="110px" font-weight="bold">
+                    This is the headline
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- Main Text -->
+        <mj-section padding-right="12px" padding-left="12px" >
+            <mj-column>
+                <mj-text font-size="48px" font-weight="regular" line-height="58px" padding-bottom="18px">
+                    Lieber Alex,
+                </mj-text>
+                <mj-text font-size="48px" font-weight="regular" line-height="58px" padding-bottom="48px">
+                    wer kennt es nicht? Wenn die Zeit knapp ist oder wir keine Lust haben frisch zu kochen, geht
+                    der Griff zu einer Tieühlmahlzeit. Aber statt TK-Pizza, Fischstäbchen oder anderer
+                    Fertigkost füllen wir jetzt unseren Gefrierschrank mit diesen gesunden Tieühlprodukten:
+                    Wir stellen Ihnen die Lebensmittel vor, die Sie immer im Gefrierfach haben sollten und aus
+                    denen Sie im Handumdrehen eine nahrhafte Mahlzeit zubereiten können.
+                    Sie möchten mehr pflanzliche Lebensmittel essen, ohne geschmackliche Einbußen? Wir
+                    haben uns für Sie auf die Suche nach den besten pflanzlichen Alternativen für Eier, Sahne,
+                    Milch & Co. gemacht.
+                </mj-text>
+                <mj-text font-size="48px" font-weight="regular" line-height="58px">
+                    Viel Spaß beim Lesen und Ausprobieren,<br>
+                    dein dunatura Team
+                </mj-text>  
+            </mj-column>
+        </mj-section>
+        <!-- Two Images -->
+
+        <!-- Highlighted Section -->
+
+        <!-- Subheadline -->
+
+        <!-- Subheadline Text -->
+
+        <!-- Mehr Erfahren Button -->
+
+        <!-- Product Section -->
+
+        <!-- Footer -->
+    </mj-body>
+</mjml>
