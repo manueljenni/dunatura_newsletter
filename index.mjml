@@ -189,13 +189,13 @@
         </mj-section>
         <mj-section background-color="#F7F4F2" padding-right="12px" padding-left="12px" padding-bottom="50px">
             <mj-column>
-                <mj-image src="https://i.postimg.cc/CMfqPwBJ/Sport-Basic-1.jpg">
+                <mj-image padding="0" padding-left="5%" src="https://i.postimg.cc/CMfqPwBJ/Sport-Basic-1.jpg">
             </mj-column>
             <mj-column>
-                <mj-image src="https://i.postimg.cc/MpXx5pXp/Immun-Complete-1.jpg">
+                <mj-image padding="0" padding-left="5%" src="https://i.postimg.cc/MpXx5pXp/Immun-Complete-1.jpg">
             </mj-column>
             <mj-column>
-                <mj-image src="https://i.postimg.cc/h4rBqddG/Vegan-Complete-1.jpg">
+                <mj-image padding="0" padding-left="5%" src="https://i.postimg.cc/h4rBqddG/Vegan-Complete-1.jpg">
             </mj-column>
         </mj-section>
         <mj-section background-color="#F7F4F2">
