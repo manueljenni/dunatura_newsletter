@@ -2,7 +2,7 @@
     <mj-head>
         <mj-title></mj-title>
         <mj-attributes>
-        <mj-all font-family="brandon-grotesque" />
+        <mj-all font-family="brandon-grotesque,Helvetica" />
         </mj-attributes>
         <mj-style>
         
@@ -64,6 +64,7 @@
 
             * {
                 overflow-wrap: break-word;
+
             }
             
         </mj-style>
