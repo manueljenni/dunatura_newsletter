@@ -41,7 +41,7 @@
         <mj-section padding-right="12px" padding-left="12px" >
             <mj-column>
                 <mj-text font-size="110px" font-weight="bold">
-                    This is the headline
+                    This is the headlinee
                 </mj-text>
             </mj-column>
         </mj-section>
